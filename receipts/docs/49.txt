@@ -1,0 +1,4 @@
+Naproxen;15 mg;2;20;50;1000
+neurobin forte;15 mg;2;20;35;700
+neurobin forte;35mg;4;20;35;700
+Actal;5 mg;5;6;12;72
